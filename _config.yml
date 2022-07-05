@@ -1,0 +1,12 @@
+title: Lee Moore
+email: lee@leemoore.page
+# description: >-
+#   Lee Moore's Homepage
+baseurl: ""
+url: "https://leemoore.page"
+twitter_username: leealtonmoore
+github_username:  leeamoore
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
